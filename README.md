@@ -1,6 +1,26 @@
-# PrimeBank-Financial-Data-Analysis
-End-To-End-Data-Analytics-Project 
-Python + PostgreSQL SQL + Tableau Public
-An end-to-end banking analytics project that analyzes a synthetic relational banking dataset using Python/Pandas and PostgreSQL/SQL, with the results presented through interactive Tableau Public dashboards.
+# 🏦 PrimeBank Financial Data Analysis
 
-The project intentionally uses both Python and SQL for analysis. Python provides flexibility for exploration, transformation, aggregation, and validation, while SQL demonstrates the ability to solve business questions directly on a relational database. Using both approaches also provides a practical way to cross-check analytical results.
+> An end-to-end data analytics project focused on analyzing banking financial data to extract actionable insights, assess risk, and evaluate financial performance.
+
+---
+
+## 📌 Project Overview
+The objective of this project is to analyze comprehensive banking financial datasets to understand customer behavior, transaction patterns, and overall financial health. By leveraging modern data tools, this project transforms raw data into strategic business decisions.
+
+---
+
+## 🛠️ Tech Stack & Tools
+* **Programming Language:** Python (Pandas, NumPy)
+* **Querying & Database:** SQL, MySQL / PostgreSQL
+* **Data Visualization:** Power BI / Tableau
+* **Version Control:** Git & GitHub
+
+---
+
+## 📂 Project Structure
+```text
+├── data/                  # Raw and processed datasets (masked/sample data)
+├── notebooks/             # Jupyter notebooks for Exploratory Data Analysis (EDA)
+├── sql_queries/           # SQL scripts used for data extraction and transformation
+├── dashboards/            # Power BI / Tableau exports or screenshot images
+└── README.md              # Project documentation
