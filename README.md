@@ -1,4 +1,4 @@
-# 🏦 PrimeBank Financial Data Analysis
+# 🏦 Bank Financial Data Analysis
 
 > An end-to-end data analytics project focused on analyzing banking financial data to extract actionable insights, assess risk, and evaluate financial performance.
 
